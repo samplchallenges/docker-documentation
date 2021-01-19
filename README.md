@@ -1,3 +1,5 @@
+[![Documentation Status](https://readthedocs.org/projects/sampl-docker-documentation/badge/?version=latest)](https://sampl-docker-documentation.readthedocs.io/en/latest/?badge=latest)
+
 This is the primary documentation for creating and submitting docker containers for SAMPL challenges.
 
 
