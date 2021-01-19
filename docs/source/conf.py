@@ -19,7 +19,7 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'SAMPL-docker-doc'
+project = 'SAMPL Docker Documentation'
 copyright = '2021, Mike Henry'
 author = 'Mike Henry'
 
