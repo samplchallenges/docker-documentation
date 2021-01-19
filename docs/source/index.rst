@@ -13,6 +13,9 @@ Welcome to SAMPL's Docker documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   docker
+   conda
+
 
 
 Indices and tables
